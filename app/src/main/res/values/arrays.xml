@@ -1,0 +1,12 @@
+<!-- res/values/arrays.xml -->
+
+<resources>
+    <string-array name="currency_options">
+        <item>@string/USD</item>
+        <item>@string/EUR</item>
+        <item>@string/JPY</item>
+        <item>@string/GBP</item>
+        <item>@string/AUD</item>
+        <item>@string/MAD</item>
+    </string-array>
+</resources>

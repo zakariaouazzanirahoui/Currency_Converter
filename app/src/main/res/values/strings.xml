@@ -1,0 +1,12 @@
+
+    <!-- res/values/strings.xml -->
+
+    <resources>
+        <string name="app_name">CurrencyConverterApp</string>
+        <string name="USD">USD</string>
+        <string name="EUR">EUR</string>
+        <string name="JPY">JPY</string>
+        <string name="GBP">GBP</string>
+        <string name="AUD">AUD</string>
+        <string name="MAD">MAD</string>
+    </resources>
