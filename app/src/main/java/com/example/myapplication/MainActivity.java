@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
     @SuppressLint("SetTextI18n")
     private void convertCurrency(String fromCurrency, String toCurrency, double amount) {
-        String apiKey = "ecd089e0e984f4397761c484";
+        String apiKey = "your api key";
         String apiUrl = "https://v6.exchangerate-api.com/v6/" + apiKey + "/pair/" + fromCurrency + "/" + toCurrency + "/" + amount;
 
         new Thread(() -> {
